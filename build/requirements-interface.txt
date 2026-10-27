@@ -1,0 +1,3 @@
+# Interface gráfica e geração do executável (além do ../requirements.txt)
+pyside6
+pyinstaller

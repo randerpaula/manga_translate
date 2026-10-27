@@ -1,0 +1,8 @@
+pymupdf
+opencv-python
+numpy
+pillow
+pytesseract
+deep-translator
+deepl
+anthropic

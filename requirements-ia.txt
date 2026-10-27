@@ -1,0 +1,7 @@
+# Recursos de IA mais pesados (opcionais):
+#  - LaMa: reconstrói o desenho atrás de texto solto (narração sobre a arte)
+#  - manga-ocr: leitura de japonês (sem ele, o japonês usa o Tesseract)
+# Instale o PyTorch só para CPU (bem menor que a versão com CUDA):
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+#   pip install -r requirements-ia.txt
+manga-ocr

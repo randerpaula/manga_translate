@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+saida_traduzida/
+modelos/
+build/dist/
+build/temp/
